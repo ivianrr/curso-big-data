@@ -14,3 +14,7 @@ Codigo de las secciones de python y machine learning del curso de Big Data.
   * M4 - 06 - Bucles
   * M4 - 06 - Clases
   * M4 - 06 - Series
+* Sesión 3:
+  * M4 - 07 - Librerías
+  * M4 - 07 - Numpy
+  * M4 - Prophet
